@@ -21,7 +21,6 @@ makeCacheMatrix <- function(sourceMatrix = matrix()) {
                 getMatrix = getMatrix)
 }
 
-getwd
 ## cacheSolve enables the matrix manager to generate a solution
 ## for a matrix and save it to the cache.
 
